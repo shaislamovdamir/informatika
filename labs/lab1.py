@@ -13,3 +13,4 @@ def f(x):
     return (math.sinh(math.cosh(x))) / (math.log(x + 1, 3))
 x = float(input())
 print(f(x))
+
